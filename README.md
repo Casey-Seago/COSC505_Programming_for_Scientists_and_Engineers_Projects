@@ -1,1 +1,1 @@
-# PhD_COSC505_Projects
+# COSC505_Projects
